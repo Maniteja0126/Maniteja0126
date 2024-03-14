@@ -120,7 +120,7 @@ A passionate Full-Stack Web Developer skilled in MERN stack who loves to code an
 <!-- Do Uncomment this part  -->
 
 
-<p align="center" >
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniteja0126&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="most Languages used" height="159" />
    
 </p>
