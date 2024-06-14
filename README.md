@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently learning **Typescript & Nextjs**
 
-- 🔭 I’m currently Looking for **Remote SDE Roles**
+- 🔭 I’m currently Looking for **SDE Roles**
 
 - 💬 Ask me about **MERN, JavaScript**
 
