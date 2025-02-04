@@ -35,15 +35,4 @@
   </a>
 </p>
 </div>
-
-<br>
-
-## 📈 GitHub Stats
-<div style="display: flex;">
-    <div style="margin-right: 10px;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniteja0126&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
-         <img src="https://github-readme-stats.vercel.app/api?username=Maniteja0126&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maniteja0126&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
-    </div>
-</div>
 <br>
