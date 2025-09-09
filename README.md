@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/twitter/follow/maniteja2601?logo=twitter&style=for-the-badge" alt="maniteja" />
 </a> </p>
 
-- 🔭 I’m currently learning **Typescript & Nextjs**
+- 🔭 I’m currently learning **Solana Development**
 
 - 🔭 I’m currently Looking for **SDE Roles**
 
